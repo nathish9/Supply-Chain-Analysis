@@ -1,5 +1,5 @@
-Supply Chain Diagnostic Analysis
- 📌 Project Overview
+## Supply Chain Diagnostic Analysis
+## 📌 Project Overview
 This project performs a **diagnostic analysis of a supply chain dataset** to identify inefficiencies related to products, suppliers, logistics, inventory management, and quality control. The analysis aims to understand **why performance issues occur** and to provide actionable, data-driven business insights.
 The project combines **SQL for data analysis** and **Power BI for interactive dashboards**, making it suitable for business stakeholders and decision-makers.
  🎯 Objectives
@@ -8,7 +8,7 @@ The project combines **SQL for data analysis** and **Power BI for interactive da
 - Evaluate logistics efficiency across transportation modes and routes
 - Detect demand and inventory mismatches
 - Support data-driven supply chain optimization
- 🗂️ Dataset Description
+ ## 🗂️ Dataset Description
 The dataset includes the following domains:
 - Product details (Product Type, SKU, Price, Availability)
 - Sales and Revenue metrics
@@ -24,7 +24,7 @@ The dataset includes the following domains:
 - **DAX** – KPI calculations and measures
 - **OBS Studio** – Dashboard recording
 - **Gamma AI** – Report generation
- 📊 Key Analyses Performed (SQL)
+## 📊 Key Analyses Performed (SQL)
 - Products generating high revenue with low stock availability
 - High-selling SKUs with frequent stock-outs
 - Suppliers with high manufacturing lead time
@@ -32,7 +32,7 @@ The dataset includes the following domains:
 - Product categories with high defect rates
 - Transportation modes with higher cost and quality risks
 - Inventory demand vs stock level mismatches
-📈 Power BI Dashboard
+## 📈 Power BI Dashboard
 The Power BI report consists of three main sections:
 1. **Overview Dashboard** – High-level KPIs and revenue insights
 2. **Product Insight Dashboard** – Product demand, inventory, and profitability analysis
@@ -45,7 +45,7 @@ The dashboard provides interactive filters for product type, SKU, supplier name,
 - Certain suppliers show higher lead times and defect rates
 - Logistics costs vary significantly across transportation modes
 
- 💡 Business Recommendations
+## 💡 Business Recommendations
 - Improve demand forecasting for high-selling products
 - Optimize inventory levels to prevent stock-outs
 - Re-evaluate underperforming suppliers
